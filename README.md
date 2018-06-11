@@ -7,3 +7,5 @@
 [Breadboard](http://bit.ly/2zJL4QJ)
 
 # [Docs](http://bit.ly/2FMUBcG)
+
+# [Presentation](https://slides.com/martinmarkov/ambilight/fullscreen)
